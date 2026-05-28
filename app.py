@@ -8,7 +8,7 @@ import datetime
 from functools import wraps
 
 app = Flask(__name__)
-app.secret_key = os.environ.get('SECRET_KEY', 'shadow_official_secret_key_2024_super_secure')
+app.secret_key = os.environ.get('SECRET_KEY', 'alone_official_secret_key_2024_super_secure')
 CORS(app)
 
 # Load config

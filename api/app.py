@@ -16,7 +16,7 @@ app = Flask(__name__,
     template_folder=os.path.join(os.path.dirname(os.path.dirname(__file__)), 'templates'),
     static_folder=os.path.join(os.path.dirname(os.path.dirname(__file__)), 'static')
 )
-app.secret_key = os.environ.get('SECRET_KEY', 'shadow_official_secret_key_2024_super_secure')
+app.secret_key = os.environ.get('SECRET_KEY', 'Alone_official_secret_key_2024_super_secure')
 CORS(app)
 
 # Load config

@@ -1,4 +1,4 @@
-# SHADOW OFFICIAL 👑 - Updated Version
+# ALONE HACKER OFFICIAL 👑 - Updated Version
 
 ## What's New
 
@@ -12,7 +12,7 @@
 ## Project Structure
 
 ```
-shadow_official/
+alone_official/
 ├── api/
 │   └── index.py          # Vercel entry point
 ├── templates/
@@ -47,7 +47,7 @@ Edit `config.json` to customize everything:
 
 ```json
 {
-  "app_name": "SHADOW OFFICIAL",
+  "app_name": "ALONE HACKER MODS",
   "app_tagline": "SECURE INTELLIGENCE PLATFORM",
   "app_emoji": "👑",
   "brand_color": "#667eea",

@@ -48,7 +48,7 @@ Edit `config.json` to customize everything:
 ```json
 {
   "app_name": "ALONE HACKER MODS",
-  "app_tagline": "SECURE INTELLIGENCE PLATFORM",
+  "app_tagline": "HACK BY ALONE HACKER OFFICIAL",
   "app_emoji": "👑",
   "brand_color": "#667eea",
   "brand_color_secondary": "#764ba2",

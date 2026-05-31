@@ -1,7 +1,7 @@
 {
   "app_name": "ALONE HACKER MODS",
-  "app_tagline": "SECURE INTELLIGENCE PLATFORM",
-  "app_emoji": "👑",
+  "app_tagline": "POWERED BY ALONE HACKER",
+  "app_emoji": "🤓🧠",
   "brand_color": "#667eea",
   "brand_color_secondary": "#764ba2",
   "accent_color": "#00ffc8",
@@ -11,7 +11,7 @@
   "sidebar_title": "Command Center",
   "login_title": "Secure Access",
   "dashboard_title": "Command Center",
-  "footer_text": "ENCRYPTED CONNECTION",
+  "footer_text": "©OWNER ALONE HACKER",
   "particles_count": 30,
   "auto_refresh_interval": 10000,
   "max_photos_per_capture": 5,
